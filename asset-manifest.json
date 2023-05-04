@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/login/static/css/main.01443924.css",
-    "main.js": "/login/static/js/main.df803713.js",
-    "static/media/robot.gif": "/login/static/media/robot.0617a41936621e9697cd.gif",
-    "static/media/logo.svg": "/login/static/media/logo.a2f1a46fa819eb9d61480189abd9634a.svg",
-    "static/media/loader.gif": "/login/static/media/loader.229acf907c3de5829d4b.gif",
-    "index.html": "/login/index.html",
-    "main.01443924.css.map": "/login/static/css/main.01443924.css.map",
-    "main.df803713.js.map": "/login/static/js/main.df803713.js.map"
+    "main.css": "/chat-appV2/static/css/main.01443924.css",
+    "main.js": "/chat-appV2/static/js/main.4027d446.js",
+    "static/media/robot.gif": "/chat-appV2/static/media/robot.0617a41936621e9697cd.gif",
+    "static/media/logo.svg": "/chat-appV2/static/media/logo.a2f1a46fa819eb9d61480189abd9634a.svg",
+    "static/media/loader.gif": "/chat-appV2/static/media/loader.229acf907c3de5829d4b.gif",
+    "index.html": "/chat-appV2/index.html",
+    "main.01443924.css.map": "/chat-appV2/static/css/main.01443924.css.map",
+    "main.4027d446.js.map": "/chat-appV2/static/js/main.4027d446.js.map"
   },
   "entrypoints": [
     "static/css/main.01443924.css",
-    "static/js/main.df803713.js"
+    "static/js/main.4027d446.js"
   ]
 }
